@@ -1,5 +1,8 @@
 # Custom web crawler
 
+## WARNING
+DO NOT USE OUTSIDE OF TEST ENVIRONMENTS
+
 No frameworks like Scrapy are used.
 
 Feature | Status
