@@ -3,8 +3,7 @@
 ## WARNING
 DO NOT USE OUTSIDE OF TEST ENVIRONMENTS
 
-### Frameworks
-No frameworks like Scrapy are used.
+**No frameworks like Scrapy are used.**
 
 ### Features
 Feature | Status
