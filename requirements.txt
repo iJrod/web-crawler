@@ -1,0 +1,4 @@
+argparse
+beautifulsoup4
+random-user-agent
+free-proxy
