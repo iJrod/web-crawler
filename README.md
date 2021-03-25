@@ -28,4 +28,4 @@ To display the help:
 $ python3 main.py -h
 ```
 
-For this version, please make sure to use https:// or http:// where appropriate. For example, 'monzo.com' and 'http://example.com' do not work in this current version as Example uses HTTPS, so 'https://example.com' is required.
+For this version, please make sure to use https:// or http:// where appropriate. For example, 'example.com' and 'http://example.com' do not work in this current version as Example uses HTTPS, so 'https://example.com' is required.
