@@ -4,7 +4,7 @@ No frameworks like Scrapy are used.
 
 Feature | Status
 --------|--------
-Web Crawlings | ![iJrod/web-crawler](https://img.shields.io/badge/Web_Crawler-Testing-yellow)
+Web Crawlings | ![iJrod/web-crawler](https://img.shields.io/badge/Web_Crawler-Working-green)
 
 ### Installation
 Install the requirements and run with Python3.
