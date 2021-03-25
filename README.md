@@ -3,8 +3,10 @@
 ## WARNING
 DO NOT USE OUTSIDE OF TEST ENVIRONMENTS
 
+### Frameworks
 No frameworks like Scrapy are used.
 
+### Features
 Feature | Status
 --------|--------
 Web Crawlings | ![iJrod/web-crawler](https://img.shields.io/badge/Web_Crawler-Working-green)
