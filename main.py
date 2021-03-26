@@ -111,7 +111,7 @@ def crawler(url, max_pages):
                     if l not in data['misc']: data['misc'].append(l)
         
         # refresh crawled_links dict with latest data
-        crawled_links[url] = data
+        crawled_links[arg_url.url] = data
     except requests.exceptions.HTTPError as e:
         print(e)
 
